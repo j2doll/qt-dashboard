@@ -1,3 +1,4 @@
+
 # C++ objects and libs
 *.slo
 *.lo
@@ -41,3 +42,4 @@ target_wrapper.*
 
 # QtCreator CMake
 CMakeLists.txt.user*
+
