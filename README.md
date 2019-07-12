@@ -18,11 +18,9 @@
 ## License
 
 - This example is part of the examples of the Qt Toolkit.
-	- Copyright (C) The Qt Company Ltd.
-	- Contact: https://www.qt.io/licensing/
+	- Copyright (c) The Qt Company Ltd.
 
 - DejaVu Sans font
 	- Copyright (c) Bitstream, Inc. All Rights Reserved.
 
 - Some code is fixed by j2doll.	
-
