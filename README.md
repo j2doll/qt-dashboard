@@ -2,6 +2,8 @@
 
 ## Example
 
+![](image/dash.jpg)
+
 - Qt dashboard is a example of Qt.
 
 - Qt\Examples\Qt-5.13.0\quickcontrols\extras\dashboard
