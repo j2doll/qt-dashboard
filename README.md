@@ -19,7 +19,9 @@
 	1. Start Qt Command
 	2. cd qt-dashboard\dashboard\qml
 	3. execute command
-		- qmlscene dashboard.qml
+	```
+	qmlscene dashboard.qml
+	```
 
 ## Tech.
 
@@ -32,10 +34,8 @@
 
 ## License
 
-- This example is part of the examples of the Qt Toolkit.
-	- Copyright (c) The Qt Company Ltd.
+- This example is part of the examples of the Qt Toolkit. : Copyright (c) The Qt Company Ltd.
 
-- DejaVu Sans font
-	- Copyright (c) Bitstream, Inc. All Rights Reserved.
+- DejaVu Sans font : Copyright (c) Bitstream, Inc. All Rights Reserved.
 
 - Some code is fixed by j2doll.	
